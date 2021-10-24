@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Mii_Dialogue.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="player idle0000" x="0" y="0" width="215" height="354" frameX="-20" frameY="-9" frameWidth="235" frameHeight="363"/>
+	<SubTexture name="player idle0001" x="215" y="0" width="216" height="357" frameX="-15" frameY="-6" frameWidth="235" frameHeight="363"/>
+	<SubTexture name="player idle0002" x="431" y="0" width="216" height="359" frameX="-10" frameY="-4" frameWidth="235" frameHeight="363"/>
+	<SubTexture name="player idle0003" x="647" y="0" width="216" height="361" frameX="-5" frameY="-2" frameWidth="235" frameHeight="363"/>
+	<SubTexture name="player idle0004" x="0" y="361" width="217" height="363" frameX="0" frameY="0" frameWidth="235" frameHeight="363"/>
+	<SubTexture name="player idle0005" x="217" y="361" width="216" height="361" frameX="-5" frameY="-2" frameWidth="235" frameHeight="363"/>
+	<SubTexture name="player idle0006" x="433" y="361" width="216" height="359" frameX="-10" frameY="-4" frameWidth="235" frameHeight="363"/>
+	<SubTexture name="player idle0007" x="649" y="361" width="215" height="357" frameX="-15" frameY="-6" frameWidth="235" frameHeight="363"/>
+	<SubTexture name="player idle0008" x="0" y="0" width="215" height="354" frameX="-20" frameY="-9" frameWidth="235" frameHeight="363"/>
+	<SubTexture name="player idle0009" x="215" y="0" width="216" height="357" frameX="-15" frameY="-6" frameWidth="235" frameHeight="363"/>
+	<SubTexture name="player idle0010" x="431" y="0" width="216" height="359" frameX="-10" frameY="-4" frameWidth="235" frameHeight="363"/>
+	<SubTexture name="player idle0011" x="647" y="0" width="216" height="361" frameX="-5" frameY="-2" frameWidth="235" frameHeight="363"/>
+	<SubTexture name="player idle0012" x="0" y="361" width="217" height="363" frameX="0" frameY="0" frameWidth="235" frameHeight="363"/>
+	<SubTexture name="player idle0013" x="0" y="361" width="217" height="363" frameX="0" frameY="0" frameWidth="235" frameHeight="363"/>
+	<SubTexture name="player idle0014" x="0" y="361" width="217" height="363" frameX="0" frameY="0" frameWidth="235" frameHeight="363"/>
+	<SubTexture name="player idle0015" x="0" y="361" width="217" height="363" frameX="0" frameY="0" frameWidth="235" frameHeight="363"/>
+</TextureAtlas>

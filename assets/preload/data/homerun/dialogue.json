@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Boyfriend, where are we?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I don't know LOL"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "BF YOU AlWAYS GET US INTO TROUBLE!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "sheeeeeeeeeesh calm down lady"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mii",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh, hello there."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "uh who are you"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mii",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Im Defualt, but everyone calls me mii for short"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "dude, lets fucking rap battle"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mii",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok LOL"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Why am I still with Bf"
+		}
+	]
+}

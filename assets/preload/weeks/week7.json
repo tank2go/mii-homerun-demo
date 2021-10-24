@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"homerun",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": true,
+	"weekBackground": "trees",
+	"weekCharacters": [
+		"mii",
+		"bf",
+		"gf"
+	],
+	"storyName": "he do be striking tho",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "week6",
+	"startUnlocked": true
+}
